@@ -1,3 +1,4 @@
+![image](https://github.com/brittanycass/brittanycass/assets/163076963/28ce8ff5-c104-431c-8b4e-c1f6b360b128)
 <h1>Hi, I'm Brittany, an <a href="https://linkedin.com/in/brittany-casseus">IT Professional</a>☺</h1>
 
 <h2>👩🏾‍💻 Information Technology Projects:</h2>
