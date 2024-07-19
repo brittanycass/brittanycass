@@ -1,6 +1,7 @@
 
 <h1>Hi, I'm Brittany, an <a href="https://linkedin.com/in/brittany-casseus">IT Professional</a>☺</h1>
-👩🏾‍💻 About Me
+👩🏾‍💻 About Me 
+
 
 Hi, my name is Brittany Casseus and I'm an ethusiastic and motivated individual starting my journey in the field of Informational Technology. While I am at the beginning of my career, I have a strong desire and passion for technology and a keen interest in helping others solve their technical issues. I have spent over 10 years in the Healthcare field and I pride myself on excellent customer service, providing empathy, helping others by solving problems and creating a seamless call flow. 
 	After spending many years in one career field I started to feel like I wanted to do more , and after research and push myself to a different career path. 
