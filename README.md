@@ -18,8 +18,8 @@ After spending many years in one career field I started to feel like I wanted to
   - [osTicket: Ticket Lifecycle Examples](https://github.com/brittanycass/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   
-  - Active Directory : Deployment and Configuration
-  - [Configuring Active Directory within Azure VMs](https://github.com/brittanycass/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/brittanycass/configure-ad) 
+  - Active Directory : Deployment and Configuration 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brittanycass/azure-network-protocols)
 
 <h2>🤳🏾Connect with me:</h2>
