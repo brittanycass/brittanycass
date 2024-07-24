@@ -17,7 +17,8 @@ After spending many years in one career field I started to feel like I wanted to
   - [osTicket: Post-Installation Configuration](https://github.com/brittanycass/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/brittanycass/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating a virtual machine (VM) in Microsoft Azure and deploying it using Remote Desktop Connection](https://github.com/brittanycass/vmremote)
+  
+  - Active Directory : Deployment and Configuration
   - [Configuring Active Directory within Azure VMs](https://github.com/brittanycass/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brittanycass/azure-network-protocols)
 
