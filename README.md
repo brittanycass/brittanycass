@@ -19,7 +19,6 @@ After spending many years in one career field I started to feel like I wanted to
 - <b>Microsoft Azure</b>
   
   - [Configuring Active Directory within Azure VMs](https://github.com/brittanycass/configure-ad) 
-  - Active Directory : Deployment and Configuration (https://github.com/brittanycass/ad-config.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brittanycass/azure-network-protocols)
 
 <h2>🤳🏾Connect with me:</h2>
