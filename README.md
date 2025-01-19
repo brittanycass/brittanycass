@@ -19,7 +19,6 @@ After spending many years in one career field I felt a deep desire to to explore
 - <b>Microsoft Azure</b>
   
   - [Configuring Active Directory within Azure VMs](https://github.com/brittanycass/configure-ad) 
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brittanycass/azure-network-protocols)
 
 <h2>🤳🏾Connect with me:</h2>
 
