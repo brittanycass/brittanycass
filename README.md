@@ -27,5 +27,4 @@ After spending many years in one career field I felt a deep desire to to explore
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/respectmymind01
 [linkedin]: https://linkedin.com/in/brittany-casseus
